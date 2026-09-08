@@ -38,6 +38,9 @@ Added mtime-aware in-memory caching to `fast_csv_loader`, so repeated loads of a
 **[आयुष — Sacred Lifespan Clock](https://sai2311-eng.github.io/ayush/)** — [source](https://github.com/sai2311-eng/ayush)
 An offline-first PWA that counts your remaining heartbeats, framed by the four Ashrams of life. 12 Indian languages, 295 sourced quotes, installable to a home screen, works with zero network after first load. Click it — it runs.
 
+**[Agnes — supply-chain intelligence](https://github.com/sai2311-eng/NIKOLA)** — TUM.ai × Spherecast hackathon, April 2026
+Competed on Spherecast's challenge to give their "Agnes" AI supply-chain manager raw-material superpowers. Built supplier discovery across 11+ sources, live HS-code lookup with SQLite caching, compliance scoring against 8 international standards, and a substitution engine that finds functionally equivalent materials.
+
 **[BillHound](https://github.com/sai2311-eng/billhound)** — autonomous bill auditor
 An agent that reads every bill you receive and speaks only when something is wrong: off-contract rates, duplicated line items, totals that don't reconcile. Built on the Strands Agents SDK over Amazon Bedrock. The design goal was restraint.
 
